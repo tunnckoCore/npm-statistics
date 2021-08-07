@@ -23,7 +23,7 @@
     "markdown-magic": "^1.0.0",
     "markdown-table": "^1.1.3"
   },
-  "npm-stats": "davidwells",
+  "npm-stats": "tunnckocore",
   "dependencies": {
     "analytics": "^0.3.5",
     "npmtotal": "^1.4.0"
