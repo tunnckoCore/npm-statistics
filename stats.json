@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "NPM",
-  "message": "1277957059 Downloads",
+  "message": "feign.codec.DecodeException: Error while extracting response for type [class de.vorb.npmstat.clients.authors.SearchResultJson] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected end-of-input in VALUE_STRING; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Unexpected end-of-input in VALUE_STRING\n at [Source: (PushbackInputStream); line: 1, column: 244415] (through reference chain: de.vorb.npmstat.clients.authors.SearchResultJson[\"objects\"]->java.util.ArrayList[234]->de.vorb.npmstat.clients.authors.SearchResultRowJson[\"package\"]) Downloads",
   "color": "orange",
   "style": "for-the-badge",
   "namedLogo": "npm"
